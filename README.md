@@ -1,5 +1,3 @@
-Here is a draft for your `README.md` file:
-
 ---
 
 # Barcode Generation in Google Sheets with HTML and CSS Export
@@ -49,9 +47,22 @@ This project demonstrates how to generate various barcodes within Google Sheets 
 
 The `My-Barcodes.html` file contains an example of the output generated using the formulas and export method described. The table includes product names, ID numbers, and their corresponding barcodes in multiple formats.
 
+## Screenshots
+
+![Barcode Generation](./image.png)
+
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries or issues, please contact me!
+
+## Author
+
+- **Worachat W, Dev.** - *Data Science, Engineering & Full Stack Dev. 2024*  
+  [LinkedIn](https://www.linkedin.com/in/brainwaves-your-ai-playground-82155961/) | [GitHub](https://github.com/worachat-dev) | [Facebook](https://web.facebook.com/NutriCious.Thailand)
 
 ---
 
